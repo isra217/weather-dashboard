@@ -7,9 +7,7 @@ This project demonstrates API integration, responsive UI design, and clean front
 ---
 
 ##  Live Demo  
-👉 https://yourusername.github.io/weather-dashboard  
-
-(Replace `yourusername` with your GitHub username)
+👉https://isra217.github.io/weather-dashboard/
 
 ---
 

@@ -1,34 +1,33 @@
-# weather-dashboard
-Modern Weather Dashboard using HTML, CSS, JavaScript and OpenWeather API
-# 🌤 Weather Dashboard Web App
+
+#  Weather Dashboard Web App
 
 A modern, responsive, and user-friendly Weather Dashboard built using **HTML, CSS, and JavaScript** with real-time data from the **OpenWeatherMap API**.  
 This project demonstrates API integration, responsive UI design, and clean frontend development practices.
 
 ---
 
-## 🚀 Live Demo  
+##  Live Demo  
 👉 https://yourusername.github.io/weather-dashboard  
 
 (Replace `yourusername` with your GitHub username)
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🔍 Search weather by city name  
-- 📍 Get weather using current location  
-- 🌡 Toggle between Celsius and Fahrenheit  
-- 🌙 Dark mode / Light mode  
-- ⭐ Save favorite cities using Local Storage  
-- 📅 5-day weather forecast  
-- 🎨 Modern glassmorphism card UI  
-- 📱 Fully responsive design  
-- 🔄 Refresh weather data anytime  
+-  Search weather by city name  
+-  Get weather using current location  
+-  Toggle between Celsius and Fahrenheit  
+-  Dark mode / Light mode  
+-  Save favorite cities using Local Storage  
+-  5-day weather forecast  
+-  Modern glassmorphism card UI  
+-  Fully responsive design  
+-  Refresh weather data anytime  
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5  
 - CSS3  
@@ -37,7 +36,5 @@ This project demonstrates API integration, responsive UI design, and clean front
 - Local Storage  
 - GitHub Pages  
 
----
 
-## 📂 Project Structure
 
